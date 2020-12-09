@@ -1,44 +1,44 @@
 var studentArray = [
   {
     id: 1,
-    name: "Rahul",
+    name: "Jayesh",
     currentClass: 5,
     division: "A"
   },
   {
     id: 2,
-    name: "Anjali",
+    name: "Minakshi",
     currentClass: 12,
     division: "C"
   },
   {
     id: 3,
-    name: "Akhila",
-    currentClass: 8,
+    name: "Drisham",
+    currentClass: 7,
     division: "C"
   },
   {
     id: 4,
-    name: "Dayal",
+    name: "Kamlesh",
     currentClass: 7,
     division: "A"
   },
   {
     id: 5,
-    name: "Rishi",
-    currentClass: 9,
+    name: "Dhoni",
+    currentClass: 10,
     division: "D"
   },
   {
     id: 6,
-    name: "Blessy",
+    name: "Piyush",
     currentClass: 10,
     division: "A"
   },
   {
     id: 7,
-    name: "Farzy",
-    currentClass: 11,
+    name: "Aansh",
+    currentClass: 8,
     division: "A"
   }
 ];
